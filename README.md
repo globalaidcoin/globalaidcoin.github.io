@@ -1,2 +1,2 @@
-# sostaler.github.io
-SOSTaler
+# globalaidcoin.github.io
+globalAidCoin
