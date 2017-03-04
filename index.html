@@ -414,11 +414,8 @@ from arbitrary screenings conducted by financial service providers." </h4>
             $(this).next(".accordion_body").slideDown(300);
             $(this).children(".plusminus").text('-');
 			$(this).css("background","#00467b");
-        }
-	    
-	//clicky.log("#FAQ/"+$(this).id); 
-	//clicky.log('/FAQ','faqfaq','pageview'); 
-	clicky.log('/FAQ/'+this.id,'FAQ','pageview'); 
+		clicky.log('/FAQ/'+this.id,'FAQ','pageview'); //clicky tracking 
+        }	 
 	    
     });
 });
