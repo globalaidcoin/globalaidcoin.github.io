@@ -124,7 +124,8 @@ section {
 
 .over h1{
 	text-align:center;
-	color:#b70f0a;
+	/* color:#b70f0a; */ /* red */
+	color:#167ac6;  /* blue */	
 	/*margin-right:70px;*/
 	padding-bottom:10px;
 /*	padding-left:20px;
