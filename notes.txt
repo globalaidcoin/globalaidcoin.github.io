@@ -2,11 +2,11 @@
 Demo
 =====
 
-Virtual Currency Token (TRY)
+Live Virtual Currency Token (TRY)
 ------------------------------
 0xd7ec89e19148f7fb79bdf7415fb50c0832977060
 
-Userdata
+Live Userdata
 ----------
 41763313010,0xbfc7abcc4f3ddc2e1f7652d5859a21d91fe965bf,beneficiary,en,icrcTurkeyAA
 41792223408,0xf1028798b363057bc90ffa02aff213ba77ff6b59,merchant,en,icrcTurkeyAA
@@ -24,7 +24,8 @@ Internal (generic)
 http://smsgate.globalaidcoin.org:8088/app
 
 
-Reports
+
+Reports (Simulated txns)
 -------------------------------
 http://globalaidcoin.org/tmpfiles/reportAllEvents-out-806378-818447.xlsx
 http://globalaidcoin.org/tmpfiles/reportAllEvents-out-806378-818447.ods
