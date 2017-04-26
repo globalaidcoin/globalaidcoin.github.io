@@ -19,6 +19,7 @@ Live Transaction monitoring
 ------------------------------
 Public (TRY)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060
+Public (TRY + address)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060?a=0xe0021c7cb410daf88b72b44e1c9bcb416a0f5bea
 
 Internal (generic)
