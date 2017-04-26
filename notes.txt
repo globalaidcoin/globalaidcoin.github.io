@@ -15,7 +15,7 @@ Userdata
 41999999001,0xa3aad5c3518d5907eb5d06afe194a217035758c0,reimburser,fr,icrcTurkeyAA
 
 
-Transaction monitoring
+Live Transaction monitoring
 ------------------------------
 Public (TRY)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060
@@ -24,6 +24,10 @@ Internal (generic)
 http://smsgate.globalaidcoin.org:8088
 
 
+Reports
+-------------------------------
+http://globalaidcoin.org/tmpfiles/reportAllEvents-out-806378-818447.xlsx
+http://globalaidcoin.org/tmpfiles/reportAllEvents-out-806378-818447.ods
 
 
 Docs
