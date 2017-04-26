@@ -21,7 +21,7 @@ Public (TRY)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060
 
 Internal (generic)
-http://smsgate.globalaidcoin.org:8088
+http://smsgate.globalaidcoin.org:8088/app
 
 
 Reports
