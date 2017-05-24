@@ -1,0 +1,4 @@
+qrcodes can be generated with freely available libraries (nodejs, JS, other)
+or on sites such as http://scan.me
+
+SHA3_256 hashes can be calculated with a myriad of free libraries and also on certain sites.
