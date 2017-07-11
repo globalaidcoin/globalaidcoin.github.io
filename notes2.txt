@@ -26,7 +26,6 @@ Public (TRY)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060
 Public (TRY + address)
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060?a=0xbfc7abcc4f3ddc2e1f7652d5859a21d91fe965bf
-https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060?a=0xf1028798b363057bc90ffa02aff213ba77ff6b59
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060?a=0xe0021c7cb410daf88b72b44e1c9bcb416a0f5bea
 https://etherscan.io/token/0xd7ec89e19148f7fb79bdf7415fb50c0832977060?a=0xaccf4a00f44d5e04e2057f72c686e4c0aed9669d
 
