@@ -36,11 +36,10 @@ http://smsgate.globalaidcoin.org:8088/app
 
 Reports (Simulated txns)
 -------------------------------
-http://globalaidcoin.org/reports/reportAllEvents-out-806378-818447.xlsx
 http://globalaidcoin.org/reports/reportAllEvents-out-806378-818447.ods
 
 
 Docs
 =====
 
-http://globalaidcoin.org/tmpfiles/ProgramSetupInfo-WithBasestation-v006-Arial.pdf
+http://globalaidcoin.org/miscfiles/ProgramSetupInfo-WithBasestation-v006-Arial.pdf
