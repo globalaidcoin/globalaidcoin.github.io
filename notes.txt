@@ -43,4 +43,4 @@ http://globalaidcoin.org/reports/reportReimburserEvents-out-806378-818447.ods
 Docs
 =====
 
-http://globalaidcoin.org/miscfiles/ProgramSetupInfo-WithBasestation-v006-Arial.pdf
+http://globalaidcoin.org/miscdocs/ProgramSetupInfo-WithBasestation-v006-Arial.pdf
