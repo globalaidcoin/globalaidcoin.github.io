@@ -37,6 +37,7 @@ http://smsgate.globalaidcoin.org:8088/app
 Reports (Simulated txns)
 -------------------------------
 http://globalaidcoin.org/reports/reportAllEvents-out-806378-818447.ods
+http://globalaidcoin.org/reports/reportReimburserEvents-out-806378-818447.ods
 
 
 Docs
